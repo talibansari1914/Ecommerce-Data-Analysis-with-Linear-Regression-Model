@@ -52,7 +52,7 @@ The project follows an **end-to-end machine learning workflow**, from data under
 Ecommerce_Linear_Regression/<br>
 │<br>
 ├── Ecommerce_Data.ipynb # EDA + Linear Regression model implementatio<br>
-├── Ecommerce_Data.csv # E-commerce dataset used for analysis & training<br>
+├── Ecommerce Customers.csv # E-commerce dataset used for analysis & training<br>
 ├── README.md # Project documentation<br>
 
 
@@ -118,7 +118,7 @@ It demonstrates regression modeling concepts rather than a production-ready busi
 ---
 ## Author 
 **Abbu Talib Ansari**<br>
-GitHub:https://github.com//talibansari//Ecommerce-Data-Analysis-with-Linear-Regression-Model<br>
+GitHub:https://github.com//talibansari1914//Ecommerce-Data-Analysis-with-Linear-Regression-Model<br>
 
 ⭐ This project showcases applied machine learning using Linear Regression on real-world e-commerce data.
 
