@@ -118,6 +118,7 @@ It demonstrates regression modeling concepts rather than a production-ready busi
 ---
 ## Author 
 **Abbu Talib Ansari**<br>
-GitHub:https://github.com//talibansari//Ecommerce-Data-Analysis-with-Linear-Regression-Model
+GitHub:https://github.com//talibansari//Ecommerce-Data-Analysis-with-Linear-Regression-Model<br>
+
 ⭐ This project showcases applied machine learning using Linear Regression on real-world e-commerce data.
 
